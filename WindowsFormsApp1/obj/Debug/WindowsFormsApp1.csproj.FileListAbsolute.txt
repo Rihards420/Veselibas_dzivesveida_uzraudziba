@@ -9,3 +9,14 @@ C:\Users\ll2765\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Windows
 C:\Users\ll2765\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\ll2765\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
 C:\Users\ll2765\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\Veselibas_uzraudziba\Veselibas_dzivesveida_uzraudziba\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Veselibas_uzraudziba\Veselibas_dzivesveida_uzraudziba\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Veselibas_uzraudziba\Veselibas_dzivesveida_uzraudziba\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Veselibas_uzraudziba\Veselibas_dzivesveida_uzraudziba\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Veselibas_uzraudziba\Veselibas_dzivesveida_uzraudziba\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Veselibas_uzraudziba\Veselibas_dzivesveida_uzraudziba\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\Veselibas_uzraudziba\Veselibas_dzivesveida_uzraudziba\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Veselibas_uzraudziba\Veselibas_dzivesveida_uzraudziba\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Veselibas_uzraudziba\Veselibas_dzivesveida_uzraudziba\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Veselibas_uzraudziba\Veselibas_dzivesveida_uzraudziba\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Veselibas_uzraudziba\Veselibas_dzivesveida_uzraudziba\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

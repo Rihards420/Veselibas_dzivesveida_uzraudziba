@@ -23,5 +23,6 @@ namespace WindowsFormsApp1
             form1.Show();
             this.Close(); // Close Form2 when going back to Form1
         }
+
     }
 }
