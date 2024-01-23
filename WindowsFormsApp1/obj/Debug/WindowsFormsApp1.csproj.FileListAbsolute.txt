@@ -20,3 +20,4 @@ D:\Veselibas_uzraudziba\Veselibas_dzivesveida_uzraudziba\WindowsFormsApp1\obj\De
 D:\Veselibas_uzraudziba\Veselibas_dzivesveida_uzraudziba\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 D:\Veselibas_uzraudziba\Veselibas_dzivesveida_uzraudziba\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 D:\Veselibas_uzraudziba\Veselibas_dzivesveida_uzraudziba\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Veselibas_uzraudziba\Veselibas_dzivesveida_uzraudziba\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
